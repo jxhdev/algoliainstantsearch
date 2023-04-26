@@ -1,0 +1,2 @@
+# algoliainstantsearch
+Created with CodeSandbox
